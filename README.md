@@ -1,11 +1,11 @@
 # Install for android
 ```
-git clone https://github.com/videogorillas/red5-parent.git
+git clone -b android https://github.com/videogorillas/red5-parent.git
 cd red5-parent/
-git clone https://github.com/videogorillas/red5-io.git
-git clone https://github.com/videogorillas/red5-server-common.git
-git clone https://github.com/videogorillas/red5-server.git
-git clone https://github.com/videogorillas/red5-service.git
+git clone -b android https://github.com/videogorillas/red5-io.git
+git clone -b android https://github.com/videogorillas/red5-server-common.git
+git clone -b android https://github.com/videogorillas/red5-server.git
+git clone -b android https://github.com/videogorillas/red5-service.git
 
 ./build.sh
 
