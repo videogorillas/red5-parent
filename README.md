@@ -6,6 +6,7 @@ git clone -b android https://github.com/videogorillas/red5-io.git
 git clone -b android https://github.com/videogorillas/red5-server-common.git
 git clone -b android https://github.com/videogorillas/red5-server.git
 git clone -b android https://github.com/videogorillas/red5-service.git
+git clone -b android https://github.com/videogorillas/red5-client.git
 
 ./build.sh
 
