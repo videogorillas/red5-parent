@@ -1,7 +1,5 @@
 set -xue
 
-rsync -var red5-server-common/android/ ~/.m2/repository/android/
-
 mvn clean install -U
 
 cd red5-io
